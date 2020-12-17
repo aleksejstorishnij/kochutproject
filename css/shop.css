@@ -27,13 +27,13 @@ body {
   background-color: #181818;
 }
 
-A {
-  text-decoration: none;
-  color: white;
-}
+button > a {
+color: White;
 
-A:hover {
-  text-decoration: overline;
+}
+button > a:hover {
+  color: #989898;
+  text-decoration: none;
 }
 
 h3 {
