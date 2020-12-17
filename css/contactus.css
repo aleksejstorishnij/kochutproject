@@ -32,7 +32,11 @@ p > a{
 
 }
 
+p > a:hover{
+  color: #989898;
+  text-decoration: none;
 
+}
 
 h3 {
   color: white;
